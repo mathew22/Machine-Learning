@@ -1,0 +1,1 @@
+SphericalOnSine -> divides the sine into windowed region. Each window is considered as a seperate vector. Spherical Clustering is done on these set of vectors
